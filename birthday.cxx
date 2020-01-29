@@ -144,6 +144,19 @@ char  ch;
  printf(" \n ");
  printf(" \n ");
  printf(" \n ");
+ printf(" \n ");
+ printf(" \n ");
+ printf(" \n ");
+ printf(" \n copyright c @Karthik Gaddam \n" );
  }
  return 0;
 }
+
+
+
+//Copyright@KarthikGaddam
+
+
+
+
+
